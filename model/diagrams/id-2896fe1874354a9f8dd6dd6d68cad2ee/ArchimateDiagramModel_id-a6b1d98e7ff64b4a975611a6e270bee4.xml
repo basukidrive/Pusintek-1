@@ -37,6 +37,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e8e1a1ee64a8461eb4f3e0024fef38e6"
+        targetConnections="id-9f98a2cd4dc741d69bdef0c1230a7d28"
         source="id-54eaad2cd29547fb8ddad9b6af726e43"
         target="id-491ba0461b5e464db6c16ad318bbbbc6">
       <archimateRelationship
@@ -78,6 +79,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-bbe53e49fd174c2f82d5b56f268c9b7d"
+          targetConnections="id-19428aadd2bd41a3b5bf05851a243a93"
           source="id-c1d05bdc3df94a268bd1c8e239ca2ad9"
           target="id-f187348ee921411e850040edf4844850">
         <archimateRelationship
@@ -429,6 +431,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b7fb1a1866d486886716c1c5fb978d3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-19428aadd2bd41a3b5bf05851a243a93"
+        source="id-1b7fb1a1866d486886716c1c5fb978d3"
+        target="id-bbe53e49fd174c2f82d5b56f268c9b7d">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-412941d9d9b2460299ace1ad5c30e65b.xml#id-412941d9d9b2460299ace1ad5c30e65b"/>
+    </sourceConnections>
     <bounds
         x="600"
         y="60"
@@ -441,6 +452,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21d8cc254fd343fb895f4832995533ef">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9f98a2cd4dc741d69bdef0c1230a7d28"
+        source="id-21d8cc254fd343fb895f4832995533ef"
+        target="id-e8e1a1ee64a8461eb4f3e0024fef38e6">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-3177ca0e2b42410983401c435b374d7c.xml#id-3177ca0e2b42410983401c435b374d7c"/>
+    </sourceConnections>
     <bounds
         x="804"
         y="60"
