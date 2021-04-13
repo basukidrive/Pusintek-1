@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-def5bc40eaae4471bac37e9e845a14c0">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-78be58c358da4bc1a9184c87fa9c6969"
+      textAlignment="1"
+      content="Pusintek-1">
+    <bounds
+        x="14"
+        y="17"
+        width="107"
+        height="32"/>
+  </children>
+</archimate:ArchimateDiagramModel>
