@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Chain"
+    id="id-a6b1d98e7ff64b4a975611a6e270bee4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-12280030d0d94a5f949c0a91e0c384f2"
+      textAlignment="1">
+    <bounds
+        x="230"
+        y="154"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-763b294da3984cc1b3f9256ab231530b.xml#id-763b294da3984cc1b3f9256ab231530b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
