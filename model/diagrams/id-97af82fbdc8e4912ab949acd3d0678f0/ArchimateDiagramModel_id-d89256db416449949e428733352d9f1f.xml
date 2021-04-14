@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portfolio Application"
+    name="Application Function Portfolio"
     id="id-d89256db416449949e428733352d9f1f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
