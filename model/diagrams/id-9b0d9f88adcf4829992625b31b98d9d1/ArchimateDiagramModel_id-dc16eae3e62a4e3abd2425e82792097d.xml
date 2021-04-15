@@ -290,7 +290,7 @@
         x="180"
         y="60"
         width="85"
-        height="349"/>
+        height="433"/>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-0f3be2efb23c45fa8b0c427880c5a742.xml#id-0f3be2efb23c45fa8b0c427880c5a742"/>
@@ -302,7 +302,7 @@
         x="708"
         y="60"
         width="121"
-        height="349"/>
+        height="433"/>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-10854763e5bc4b1d8758437dd4dca11a.xml#id-10854763e5bc4b1d8758437dd4dca11a"/>
