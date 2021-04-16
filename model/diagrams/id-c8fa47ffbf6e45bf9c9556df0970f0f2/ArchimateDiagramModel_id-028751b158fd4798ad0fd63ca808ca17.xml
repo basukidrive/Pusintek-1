@@ -1,4 +1,31 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Roadmap"
-    id="id-028751b158fd4798ad0fd63ca808ca17"/>
+    id="id-028751b158fd4798ad0fd63ca808ca17">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-82837a113e44409caab7631c13304216"
+      fillColor="#ff00ff">
+    <bounds
+        x="132"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-b9a4a53b6de74b468976f3c09ac186fc.xml#id-b9a4a53b6de74b468976f3c09ac186fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0054379a1d424f52bf8e4c0ef7ccf8df">
+    <bounds
+        x="132"
+        y="120"
+        width="120"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-141fb577328b4f17aaccf834a546d4fa.xml#id-141fb577328b4f17aaccf834a546d4fa"/>
+  </children>
+</archimate:ArchimateDiagramModel>
