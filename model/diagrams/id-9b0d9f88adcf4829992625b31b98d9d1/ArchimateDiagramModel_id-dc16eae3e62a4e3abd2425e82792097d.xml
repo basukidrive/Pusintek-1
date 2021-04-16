@@ -245,39 +245,39 @@
         height="73"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5ff7aac9da364be795e47fa70ad9c1f8">
+        id="id-e70bfab7ad8d4d6991480e4cfa134ebd">
       <bounds
-          x="23"
-          y="28"
-          width="86"
-          height="33"/>
+          x="12"
+          y="24"
+          width="85"
+          height="37"/>
       <archimateElement
-          xsi:type="archimate:Device"
-          href="Device_id-14f3971789d74bcf991c3cb790b7f58b.xml#id-14f3971789d74bcf991c3cb790b7f58b"/>
+          xsi:type="archimate:Node"
+          href="Node_id-0495483a0a43444b970a03e9312c99a6.xml#id-0495483a0a43444b970a03e9312c99a6"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3511d25ea776411183dbaf2cc44f35a1">
+        id="id-d78907eaad5241f699be0374a289d1b8">
       <bounds
-          x="156"
-          y="28"
-          width="85"
-          height="33"/>
+          x="120"
+          y="24"
+          width="97"
+          height="37"/>
       <archimateElement
-          xsi:type="archimate:Device"
-          href="Device_id-56f42d9be75740a5bc898c137c509854.xml#id-56f42d9be75740a5bc898c137c509854"/>
+          xsi:type="archimate:Node"
+          href="Node_id-46edd6538bb147abb1e531e1af31c49d.xml#id-46edd6538bb147abb1e531e1af31c49d"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-9c8b5037c7ec456b860a1486a8442d03">
+        id="id-1a89cf67826949c4b499eea9469cea40">
       <bounds
-          x="276"
-          y="28"
-          width="85"
-          height="33"/>
+          x="252"
+          y="24"
+          width="109"
+          height="37"/>
       <archimateElement
-          xsi:type="archimate:Device"
-          href="Device_id-f6b52225cc7848fb8da4cf9ffc7af2d8.xml#id-f6b52225cc7848fb8da4cf9ffc7af2d8"/>
+          xsi:type="archimate:Node"
+          href="Node_id-3a0d0443bb9c4c2c8c7b3d2b3205e574.xml#id-3a0d0443bb9c4c2c8c7b3d2b3205e574"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
